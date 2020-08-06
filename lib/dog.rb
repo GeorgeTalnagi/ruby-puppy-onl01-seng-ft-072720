@@ -13,7 +13,7 @@ def self.all
   
 def self.print_all 
   self.all.each do |names|
-    "#{names}"
+    
     
     end 
   end 
