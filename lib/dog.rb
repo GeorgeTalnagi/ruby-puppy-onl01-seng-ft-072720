@@ -15,6 +15,7 @@ def self.print_all
   @@all.each do |names|
     name[names] 
     end 
+    name 
   end 
   
 def self.save 
