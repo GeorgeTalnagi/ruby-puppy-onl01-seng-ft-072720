@@ -13,7 +13,7 @@ def self.all
   
 def self.print_all 
   @@all.each do |names|
-    names = [] 
+    names
     end 
   names 
   end 
