@@ -12,7 +12,8 @@ def self.all
   end 
   
 def self.print_all 
-  self.all.each do |names| ""
+  self.all.each do |names|
+    "#{names}"
     
     end 
   end 
