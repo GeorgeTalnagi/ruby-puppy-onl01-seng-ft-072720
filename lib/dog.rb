@@ -20,5 +20,9 @@ def self.print_all
 def self.save 
   @@all << self 
   end 
+
+def self.clear_all
+  end 
+  
   
 end 
