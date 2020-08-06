@@ -12,10 +12,9 @@ def self.all
   end 
   
 def self.print_all 
-  @@all.each do |names|
-    names
+  self.all.each do |names| ""
+    
     end 
-  names 
   end 
   
 def self.save 
